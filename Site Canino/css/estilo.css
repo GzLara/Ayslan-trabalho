@@ -1,0 +1,16 @@
+.navbar {
+
+    background-color: darkolivegreen !important;
+}
+
+body {
+
+    background-image: url('../imgs/fundosite.png');
+    background-size: cover;
+}
+
+.navbar .nav-link.show,
+.navbar .nav-link:focus,
+.navbar .nav-link:active {
+  color: black !important;
+}
